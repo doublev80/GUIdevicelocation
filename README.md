@@ -10,7 +10,7 @@
 
 まず，Ubuntu上で[idevicelocation](https://github.com/JonGabilondoAngulo/idevicelocation#about)を動作させる環境を用意します．
 
-> _First, prepare to run [idevicelocation](https://github.com/JonGabilondoAngulo/idevicelocation#about) on Ubuntu.
+> _First, prepare to run [idevicelocation](https://github.com/JonGabilondoAngulo/idevicelocation#about) on Ubuntu._
 
 そして，Ruby，Ruby-Gtk2をインストールします．
 
@@ -71,7 +71,7 @@ GUIdevicelocation.rbを実行します．
 
 ### 指定量，回数，間隔の移動 / Move by specified amount, count, interval
 
-以下の'amount'に1回で移動する度数，'count'に移動する回数，'interval'に移動する間隔(秒)を，それぞれ設定し，8方向ボタンを1回押すことにより，それぞれの方向へ，設定した内容に従って移動します．  
+以下の'Amount'に1回で移動する度数，'Count'に移動する回数，'Interval'に移動する間隔(秒)を，それぞれ設定し，8方向ボタンを1回押すことにより，それぞれの方向へ，設定した内容に従って移動します．  
 初期状態は，徒歩程度の速度で，10秒移動する設定です．
 
 > _Here, you can set the number of meters ('Amount'), the number of times you move per press of a button ('Count'), and duration of your move ('Interval'), every time you press one of the eight multi directional buttons. Default is set to 10 seconds worth of walking speed._
@@ -80,7 +80,7 @@ GUIdevicelocation.rbを実行します．
 
 移動中，以下の'Stop!'を押すことにより，移動をキャンセルできます．
 
-> _To cancel the movement press the 'Stop!' button.
+> _To cancel the movement press the 'Stop!' button._
 
 ![start](https://raw.githubusercontent.com/doublev80/GUIdevicelocation/master/img/img6.png)
 
@@ -88,7 +88,7 @@ GUIdevicelocation.rbを実行します．
 
 以下の'Stop Simu'ボタンにより，シミュレーションを終了し，現在位置に戻ります．
 
-> _To stop the simulation press the 'Stop Simu' button.
+> _To stop the simulation and return to actual current location, press the 'Stop Simu' button._
 
 ![start](https://raw.githubusercontent.com/doublev80/GUIdevicelocation/master/img/img7.png)
 
