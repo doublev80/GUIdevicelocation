@@ -19,6 +19,12 @@
     $ sudo apt-get install ruby
     $ sudo apt-get install ruby-gtk2
 
+GUIdevicelocation.rbをダウンロードします．
+
+> _Download GUIdevicelocation.rb._
+
+    $ wget https://github.com/doublev80/GUIdevicelocation/raw/master/GUIdevicelocation.rb
+
 ---
 
 ## 実行 / Run
